@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/matt/git/grinberg-flask/microblog/venv"
+VIRTUAL_ENV="/Users/matt/git/bf/grinberg-flask/microblog/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
