@@ -30,7 +30,7 @@ If you wish to alias this as `pytree`, you can run:
 alias pytree="tree -I '__pycache__|venv'"
 ```
 
-If you don't want to have to run the alias command every time, you can echo the alias to your .bashrc file:
+If you don't want to have to run the alias command every time you open up a new shell, you can echo the alias to your .bashrc file:
 
 ```bash
 echo "alias pytree=\"tree -I '__pycache__|venv'\"" >> ~/.bashrc
